@@ -15,7 +15,7 @@ Computer Science graduate from Cavite State University with hands-on experience 
 - **[SkillVerse](https://github.com/ampere07/SkillVerse)** (undergraduate thesis): a web-based learning platform for Java and Python with a built-in code compiler, AI-powered skill assessment, and classroom management tools for students and teachers.
 - **Quotation and Billing Desktop App** (private, built for a company): a React and Electron app that calculates labor, overtime, software, and overhead costs and exports print-ready PDF quotations.
 - **Company Data Management System** (private, built for a company): a centralized SQL-based system for organizing and maintaining company records.
-- **[ecommerce-fullstack](https://github.com/bensiiint/ecommerce-fullstack)** (school group project): a full-stack e-commerce web app with React, TypeScript, Node.js, MongoDB, and Stripe payments.
+- **[Kalo Villa Siargao Website](https://github.com/bensiiint/kalo-villa-website)** ([live site](https://kalo-web2.vercel.app)): a responsive website for a beachfront villa resort in Siargao, built with HTML, CSS, JavaScript, and GSAP.
 
 ### Find me
 
